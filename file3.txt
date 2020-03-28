@@ -1,1 +1,2 @@
 Added the new Feature2 branch changes in file3.txt
+Added the second feature branch changes in file3.txt
