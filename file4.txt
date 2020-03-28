@@ -1,1 +1,3 @@
 Added new changes on the Feature1 for  file4.txt
+Added second changes on Feature1 for file4.txt
+
